@@ -10,5 +10,6 @@ import { RouterOutlet } from '@angular/router';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'my-test-project';
+  title = 'KITT';
+  message = 'Angular is the best JavaScript framework for building client-side application';
 }
